@@ -28,11 +28,13 @@ Realizar un fork de este repositorio, completar los datos de información de apl
     - Payloads
     - Parameters
     - Posibles Respuestas (Opcional)
+7. La aplicación debe contener pruebas unitarias de la capa de Servicio.
 
 ### Requerimientos Opcionales:
 1. Javadoc de los métodos utilizados para las funcionalidades requeridas.
 2. Autenticación de usuarios (JWT o Cookie).
 3. Utilización de ORM (Hibernate) u otra implementación de JPA.
+4. Tests de integración para testear la persistencia en base de datos.
 
 #### Información Útil:
 * [Documentación con Postman](https://learning.getpostman.com/docs/postman/api-documentation/documenting-your-api/)
