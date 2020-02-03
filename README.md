@@ -5,10 +5,10 @@
 Realizar un fork de este repositorio, completar los datos de información de aplicante y cumplir con los objetivos mencionados más abajo.
 
 ## Información del Aplicante
-* Nombre: 
-* E-Mail: 
-* Fecha/Hora de comienzo: 
-* Fecha/Hora de finalización: 
+* Nombre: Luis González
+* E-Mail: lx.mw001@gmail.com
+* Fecha/Hora de comienzo: 27/01/2020 23:00
+* Fecha/Hora de finalización: 02/02/2020 23:50
 
 ## Objetivo del Challenge
 ### Realizar una aplicación con Spring Boot que exponga una API con los siguientes requerimientos funcionales utilizando la [API pública de SpaceX](https://documenter.getpostman.com/view/2025350/RWaEzAiG)
@@ -35,6 +35,13 @@ Realizar un fork de este repositorio, completar los datos de información de apl
 2. Autenticación de usuarios (JWT o Cookie).
 3. Utilización de ORM (Hibernate) u otra implementación de JPA.
 4. Tests de integración para testear la persistencia en base de datos.
+
+### Diagrama de clases
+![diagrama de clases](./model-class.png?raw=true)
+
+### Documentacion 
+Correr la aplicacion y cargar:
+http://localhost:8080/swagger-ui.html
 
 #### Información Útil:
 * [Documentación con Postman](https://learning.getpostman.com/docs/postman/api-documentation/documenting-your-api/)
